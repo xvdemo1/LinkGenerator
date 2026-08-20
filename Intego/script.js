@@ -1,5 +1,5 @@
 // Placeholder JSON data
-const pages = [{"name":"Homepage","languages":[{"code":"en","id":"2522358"}]}];
+const pages = [{"name":"Intego One","languages":[{"code":"en","id":3959892},{"code":"de","id":3959893},{"code":"es","id":3959894},{"code":"fr","id":3959895},{"code":"jp","id":3959896}]},{"name":"Intego One Essential","languages":[{"code":"en","id":3959897},{"code":"de","id":3959898},{"code":"es","id":3959899},{"code":"fr","id":3959900},{"code":"jp","id":3959901}]},{"name":"Intego One Advanced","languages":[{"code":"en","id":3959902},{"code":"de","id":3959903},{"code":"es","id":3959904},{"code":"fr","id":3959905},{"code":"jp","id":3959906}]},{"name":"Intego One Complete","languages":[{"code":"en","id":3959907},{"code":"de","id":3959908},{"code":"es","id":3959909},{"code":"fr","id":3959910},{"code":"jp","id":3959911}]}];
 let selectedPageName = "";
 let selectedLanguageCode = "";
 
