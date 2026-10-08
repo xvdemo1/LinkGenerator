@@ -17,7 +17,7 @@ for (let i = 0; i < pages.length; i++) {
   const option = document.createElement("option");
   option.value = pages[i].name;
   option.text = pages[i].name;
-  pageSelector.appendChild(option);
+  pageSelector.appendChild(option); 
 }
 pageSelector.selectedIndex = 0;
 
